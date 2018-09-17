@@ -2,6 +2,9 @@ import java.util.*;
 import java.text.*;
 import controlP5.*;
 
+
+// global variables
+
 int cx, cy;
 int minutes;
 String minsString;
