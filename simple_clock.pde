@@ -77,7 +77,8 @@ void draw(){
   rectMode(CORNER);
   strokeWeight(0);
   rect(0, 0, width, 20);
-  
+  // TODO: title text
+   
   Date time = new Date(currentTime);
   
   if(digital){
