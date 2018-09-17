@@ -70,6 +70,10 @@ void setup(){
 
 void draw(){
   background(50);
+  fill(100);
+  rectMode(CORNER);
+  strokeWeight(0);
+  rect(0, 0, width, 20);
   
   Date time = new Date(currentTime);
   
