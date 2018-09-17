@@ -24,7 +24,7 @@ ControlP5 cp5;
 CColor controlsColours;
 
 void setup(){
-  size(450, 750);
+  size(550, 850);
   
   cx = 225;
   cy = 300;
